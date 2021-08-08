@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <g id="Circle_Button_" data-name="Circle Button " transform="translate(0 -0.085)">
+    <g id="Area_SIZE:LARGE_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:LARGE][STATE:DEFAULT][STYLE:STYLE2]" transform="translate(0 0.085)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+      <rect width="73" height="73" rx="36.5" stroke="none"/>
+      <rect x="1" y="1" width="71" height="71" rx="35.5" fill="none"/>
+    </g>
+    <g id="Icon_" data-name="Icon " transform="translate(21 21)">
+      <rect id="Area_ICON:feather_heart_SIZE:LARGE_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/heart][SIZE:LARGE][STATE:DEFAULT][STYLE:STYLE2]" width="31" height="31" transform="translate(0 0.085)" fill="rgba(253,73,198,0.35)" opacity="0"/>
+      <g id="Icon" transform="translate(1.876 3.766)">
+        <path id="Path" d="M26.7,5.1a7.17,7.17,0,0,0-10.142,0L15.173,6.481,13.791,5.1A7.171,7.171,0,0,0,3.649,15.241l1.382,1.382L15.173,26.765,25.314,16.623,26.7,15.241A7.17,7.17,0,0,0,26.7,5.1Z" transform="translate(-1.549 -2.998)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
